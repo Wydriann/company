@@ -1,0 +1,6 @@
+package entites.enums;
+
+public enum OrderStatus {
+	
+
+}
